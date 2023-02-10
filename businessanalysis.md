@@ -29,7 +29,7 @@
 
 ### d) user classes and other involved personnel; and
 
-#### e) support environment.
+### e) support environment.
 
 ## 5.2 Preliminary operational scenarios
 
