@@ -22,8 +22,17 @@
 ## 5.1 Preliminary operational concept
 
 ### a) operational policies and constraints;
+- Time constraint: The system shall be completed and deployed after 120 days. 
+- Phases: The project will be broken down into four phases:
+- -- Phase 1: 30 days -- Requirements and planning 
+- -- Phase 2: 30 days -- Development 
+- -- Phase 3: 30 days -- Testing / Development 
+- -- Phase 4: 30 days -- Deployment / maintanence 
+- Scope constraint: The scope of a project defines its specific goals, deliverables, features, and functions, tasks required to complete the project 
+- Cost constraint: The project budget is $10,000. That includes all aspects of financial resources needed to complete the project on time. Labor, vendors, qaulity control. 
 
 ### b) description of the proposed system;
+- 
 
 ### c) modes of system operation;
 
