@@ -37,8 +37,16 @@
 ### c) modes of system operation;
 
 ### d) user classes and other involved personnel; and
+- Progressive Pest Control Clients 
+- Progressive Pest Control Employees 
+- Software maintainers / Dev team 
 
 ### e) support environment.
+- No current website system in place for Progressive Pest Control 
+- QuickBooks 1998 Version for internal system, client logging, ect. 
+- -- Has no been updated since 2004 
+- -- Running on an early 2000s Dell 
+- -- Computer on its last leg
 
 ## 5.2 Preliminary operational scenarios
 
