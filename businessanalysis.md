@@ -32,7 +32,10 @@
 - Cost constraint: The project budget is $10,000. That includes all aspects of financial resources needed to complete the project on time. Labor, vendors, qaulity control. 
 
 ### b) description of the proposed system;
-- 
+- Create a functional website for Progressive Pest Control clients and employees.
+- Rebuild internal system 
+- -- Client logs, information, bill / job history 
+- -- Employee jobs, schedule, pay, banking/ direct deposit
 
 ### c) modes of system operation;
 
