@@ -66,13 +66,40 @@
 A) View job history - detailed report of every job Progressive Pest Control has completed for client 
 
 B) Pay my bill - - detailed report of invoice and ability to pay bill 
-### C) Schedule services - ability to book appointments via online website
-### D) Yearly program - ability to sign up for the yearly treatment program / view information on program 
-### E) At home treatment - documentation on at home treatment for insects / only available to our clients
-### F) Pesticide information - detailed documentation on our used pesticides
-### G) Insect information - detailed documentation on insect diagnostics / what PPC treats for
+
+C) Schedule services - ability to book appointments via online website
+
+D) Yearly program - ability to sign up for the yearly treatment program / view information on program 
+
+E) At home treatment - documentation on at home treatment for insects / only available to our clients
+
+F) Pesticide information - detailed documentation on our used pesticides
+
+G) Insect information - detailed documentation on insect diagnostics / what PPC treats for
 ## Employee:
+A) Job description / notes 
+
+B) Send out invoices 
+
+C) Take payment on site 
+
+D) Client information
+
+E) Employee pay / direct deposit / taxes 
+
+F) Clock in Clock out
 ## Prospective Client: 
+A) Offered services 
+
+B) Job estimates 
+
+C) Contact us
+
+D) About business 
+
+E) PPC team 
+
+F) Pesticides 
 
 # 6. Other preliminary life-cycle concepts
 
