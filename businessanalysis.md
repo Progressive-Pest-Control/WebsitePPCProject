@@ -20,6 +20,7 @@
 # 5. Preliminary operational concept of proposed system
 
 ## 5.1 Preliminary operational concept
+- Build and deploy a website for Progressive Pest Control that implements both client and employee usage. The website will also serve as an advertising device for potential new clients. 
 
 ### a) operational policies and constraints;
 - Time constraint: The system shall be completed and deployed after 120 days. 
