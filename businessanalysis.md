@@ -30,7 +30,7 @@
 - -- Phase 3: 30 days -- Testing / Development 
 - -- Phase 4: 30 days -- Deployment / maintanence 
 - Scope constraint: The scope of a project defines its specific goals, deliverables, features, and functions, tasks required to complete the project 
-- Cost constraint: The project budget is $10,000. That includes all aspects of financial resources needed to complete the project on time. Labor, vendors, qaulity control. 
+- Cost constraint: The project budget is ?. That includes all aspects of financial resources needed to complete the project on time. Labor, vendors, qaulity control. 
 
 ### b) description of the proposed system;
 - Create a functional website for Progressive Pest Control clients and employees.
@@ -92,6 +92,10 @@
 - Ask Prof. how this applies to my website 
 
 # 7. Project Constraints
+- Cost: Website will have a hard budget constraint. Budget estimates need to be acccurately presented to owner. 
+- -- Market rates, hourly costs, overall budget
+- Copyright: copyrights of other competitors may prohibit some functions of the website.
+- Scope, time, cost, QUALITY. 
 
 # 8. Appendix
 
