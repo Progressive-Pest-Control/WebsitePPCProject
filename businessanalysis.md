@@ -62,6 +62,8 @@
 ### E) At home treatment - documentation on at home treatment for insects / only available to our clients
 ### F) Pesticide information - detailed documentation on our used pesticides
 ### G) Insect information - detailed documentation on insect diagnostics / what PPC treats for
+## Employee:
+## Prospective Client: 
 
 # 6. Other preliminary life-cycle concepts
 
