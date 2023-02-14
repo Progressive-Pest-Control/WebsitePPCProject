@@ -96,3 +96,4 @@
 # 8. Appendix
 
 ## 8.1 Acronyms and abbreviations
+- PPC: Progressive Pest Control 
