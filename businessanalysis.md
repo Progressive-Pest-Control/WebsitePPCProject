@@ -53,14 +53,14 @@
 
 ## 5.2 Preliminary operational scenarios
 - Describe examples of how users/operators/maintainers will interact with the system in important contexts of use. The high-level scenarios are described for an activity or a series of activities of business processes supported by the system. The scenarios should be uniquely named and numbered and should be referenced in the description of the business processes in 9.3.9.
-- Clients: 
-A) View job history - detailed report of every job Progressive Pest Control has completed for client 
-B) Pay my bill - - detailed report of invoice and ability to pay bill 
-C) Schedule services - ability to book appointments via online website
-D) Yearly program - ability to sign up for the yearly treatment program / view information on program 
-E) At home treatment - documentation on at home treatment for insects / only available to our clients
-F) Pesticide information - detailed documentation on our used pesticides
-G) Insect information - detailed documentation on insect diagnostics / what PPC treats for
+## - Clients: 
+### A) View job history - detailed report of every job Progressive Pest Control has completed for client 
+### B) Pay my bill - - detailed report of invoice and ability to pay bill 
+### C) Schedule services - ability to book appointments via online website
+### D) Yearly program - ability to sign up for the yearly treatment program / view information on program 
+### E) At home treatment - documentation on at home treatment for insects / only available to our clients
+### F) Pesticide information - detailed documentation on our used pesticides
+### G) Insect information - detailed documentation on insect diagnostics / what PPC treats for
 
 # 6. Other preliminary life-cycle concepts
 
