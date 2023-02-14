@@ -66,12 +66,30 @@
 # 6. Other preliminary life-cycle concepts
 
 ## 6.1 Preliminary acquisition concept
+- At this point we know basic functions the website is to implement. From here, many meetings will need to be had with owner, Patrick, to fine tune user needs and finer functions of the website. 
+- -- Homepage details 
+- -- About company page
+- -- Extracting data of existing internal system 
+- Determine what language website written in 
+- Color scheme for website 
+- Evaluate fesability 
+- Requirements 
+- Website hosting 
 
 ## 6.2 Preliminary deployment concept
+- Website will going through an extensive testing process at every phase of development. 
+- Agile methodolgy 
+- Test heavy traffic on site, servers capabilities
+- System will not be deployed until client and employee portals are fully tested and supported
 
 ## 6.3 Preliminary support concept
+- Minimal support needed for this website post deployment 
+- PPC will use internal training support to get clients and employeess up to speed on new website 
+- Maintenance support will provide assistance to clients and employees experiencing difficulties / bugs 
+- Maintenance support will also manage website analytics and any minor changes needed to text on website
 
 ## 6.4 Preliminary retirement concept
+- Ask Prof. how this applies to my website 
 
 # 7. Project Constraints
 
