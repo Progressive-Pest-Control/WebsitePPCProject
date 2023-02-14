@@ -39,6 +39,14 @@
 - -- Employee jobs, schedule, pay, banking / direct deposit
 
 ### c) modes of system operation;
+- Online scheduler 
+- Client portal 
+- Employee portal 
+- Internal system -- client information, payment, job description
+- About business
+- About services
+- Estimation 
+- Hybrid 
 
 ### d) user classes and other involved personnel; and
 - Progressive Pest Control Clients 
@@ -55,8 +63,9 @@
 ## 5.2 Preliminary operational scenarios
 - Describe examples of how users/operators/maintainers will interact with the system in important contexts of use. The high-level scenarios are described for an activity or a series of activities of business processes supported by the system. The scenarios should be uniquely named and numbered and should be referenced in the description of the business processes in 9.3.9.
 ## Clients: 
-### A) View job history - detailed report of every job Progressive Pest Control has completed for client 
-### B) Pay my bill - - detailed report of invoice and ability to pay bill 
+A) View job history - detailed report of every job Progressive Pest Control has completed for client 
+
+B) Pay my bill - - detailed report of invoice and ability to pay bill 
 ### C) Schedule services - ability to book appointments via online website
 ### D) Yearly program - ability to sign up for the yearly treatment program / view information on program 
 ### E) At home treatment - documentation on at home treatment for insects / only available to our clients
@@ -91,7 +100,9 @@
 - Maintenance support will also manage website analytics and any minor changes needed to text on website
 
 ## 6.4 Preliminary retirement concept
-- Ask Prof. how this applies to my website 
+- Security 
+- Server overload
+- Mobile app 
 
 # 7. Project Constraints
 - Cost: Website will have a hard budget constraint. Budget estimates need to be acccurately presented to owner. 
