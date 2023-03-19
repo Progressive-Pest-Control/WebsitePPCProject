@@ -1,6 +1,10 @@
 # 1. Introduction
 ## 1. Business purpose
+- Progressive Pest Control is pursuing the development of a website in order to align with its current business objectives of providing pest control service to clients in the metro detroit area. The website will provide growth for current clients that will have the ability to pay online, review past jobs, schedule services, among many other new features being discussed. The website will also allow for the growth and outreach to new prospective customers via several marketing tactics that will be implemented. 
 ## 2. Business scope
+- Progressive Pest Control -- Pest control residential and commerical servicing.
+- Progressive Pest Control includes a wide range of business activities which include residential and commerical treatment for carpenter ants, bees, mice, rats, rodents, mosquitos and fruit flies.  
+- Progressive Pest Control is developing a website to attract new clients, provide knowledge on insects, and provide employees and current clients with portals to assist with jobs, job scheduling, payments, hours, and a few other features to be defined at a later date.  
 ## 3. Overview
 ## 4. Definitions
 ## 5. Major stakeholders
